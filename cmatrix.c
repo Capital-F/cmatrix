@@ -152,6 +152,7 @@ void version(void) {
         VERSION, __TIME__, __DATE__);
     printf("Email: abishekvashok@gmail.com\n");
     printf("Web: https://github.com/abishekvashok/cmatrix\n");
+    printf("This is version information\n");
 }
 
 
